@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- ⚡ Fun fact: I made more then 20000+ types creature's spells for WoW Servers.
+- My name is Andrey! I love game dev, playing games and love creation.
+- ⚡ Fun fact: I scripted more then 35000+ types creature's use spells for WoW Servers (since WotLK creature_ai_scripts).
+- 🌱 I’m currently learning C#
 - 🔭 I’m currently working on World of Warcraft Servers and WAR Online!
 
 <!--
@@ -9,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on World of Warcraft Servers and WAR Online!
-- 🌱 I’m currently learning C#
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
