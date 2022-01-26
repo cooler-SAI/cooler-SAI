@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- ⚡ Fun fact: I made more then 20000+ types creature's spells for WoW Servers.
+- 🔭 I’m currently working on World of Warcraft Servers and WAR Online!
+
 <!--
 **cooler-SAI/cooler-SAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
