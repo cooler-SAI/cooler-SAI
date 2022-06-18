@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- My name is Andrey! I love software creation,game dev, playing games and love creation.
+- My name is Andrey! I love software creation,game dev, playing games and improvisation in IT.
 - ⚡ Fun fact: I scripted more then 35000+ types creature's hand to hand for WoW Servers (since WotLK creature_ai_scripts).
 - 🌱 I’m currently learning C#
 - 🔭 I’m currently working on World of Warcraft Servers and WAR Online!
