@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on Warhammer Online Emulator and World of Warcraft Servers!
 - 👯 I’m looking to collaborate on my projects!
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6658d101b998f3b3c7f84680?variant=dark" alt="roadmap.sh"/></a>
 
 
 <!--
