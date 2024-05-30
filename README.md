@@ -8,8 +8,6 @@
 - 👯 I’m looking to collaborate on my projects!
 
 
-[  [![roadmap.sh](https://roadmap.sh/card/tall/6658d101b998f3b3c7f84680?variant=dark&roadmaps=backend%2Cgolang)](https://roadmap.sh)](https://roadmap.sh/card/tall/6658d101b998f3b3c7f84680?variant=dark)
-
 <!--
 **cooler-SAI/cooler-SAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
