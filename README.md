@@ -3,7 +3,7 @@
 - My name is Andrey! I love software creation,game dev. I am a gamer and a person with improvisation in IT.
 - ✨ Experienced Golang Developer with a strong focus on Kubernetes, Prometheus, and Kafka, specializing in cloud-native microservices, observability, and data streaming architectures.
 - ⚡ Fun fact: I scripted more then 35000+ types creature's hand to hand for WoW Servers (since WotLK creature_ai_scripts).
-- 🌱 I’m currently learning C#, Unity and Golang
+- 🌱 I am actively enhancing my skills in Golang, focusing on developing expertise in backend development and cloud-native applications.
 - 💬 CEO of PixelLab studio, that build games
 - 🔭 I’m currently working on Warhammer Online Emulator and World of Warcraft Servers!
 - 👯 I’m looking to collaborate on my projects!
