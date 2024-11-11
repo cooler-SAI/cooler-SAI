@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I scripted more then 35000+ types creature's hand to hand for WoW Servers (since WotLK creature_ai_scripts).
 - 🌱 I am actively enhancing my skills in Golang, focusing on developing expertise in backend development and cloud-native applications.
 - 💬 CEO of PixelLab studio, that build games
-- 🔭 I’m currently working on Warhammer Online Emulator and World of Warcraft Servers!
+- 🔭 In my spare time, I work on the Warhammer Online Emulator and World of Warcraft servers as a personal hobby.
 - 👯 I’m looking to collaborate on my projects!
 
 
