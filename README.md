@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - My name is Andrey! I love software creation,game dev. I am a gamer and a person with improvisation in IT.
+- ✨ Golang dev, work with Kubernetes, Prometheus, Kafka
 - ⚡ Fun fact: I scripted more then 35000+ types creature's hand to hand for WoW Servers (since WotLK creature_ai_scripts).
 - 🌱 I’m currently learning C#, Unity and Golang
 - 💬 CEO of PixelLab studio, that build games
