@@ -9,4 +9,4 @@ I bring 25+ years of direct B2B sales experience and a strong technical backgrou
 
 **Current Focus:** Developing a Kubernetes Operator for automated security policy enforcement.
 
-[GoK8sSecurityLab Link](https://github.com/cooler-SAI/GoK8sSecurityLab/actions/workflows/secure-build.yml)
+[![CI Status](https://github.com/cooler-SAI/GoK8sSecurityLab/actions/workflows/secure-build.yml/badge.svg?branch=main)](https://github.com/cooler-SAI/GoK8sSecurityLab/actions/workflows/secure-build.yml)
